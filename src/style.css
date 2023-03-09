@@ -1,19 +1,16 @@
 body {
   background-color: lightgray;
+  text-align: center;
+  margin-top: 60px;
 }
 
 img {
-  padding: 20px;
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
-.col {
+
+footer {
   text-align: center;
-  background: white;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-  color: #6c63ff;
-  margin: 20px;
-  border-radius: 4px;
-  padding: 20px 15px;
-  text-decoration: none;
-  text-transform: capitalize;
-  justify-content: center;
 }
